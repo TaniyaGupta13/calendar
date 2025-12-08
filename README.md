@@ -28,7 +28,7 @@ You will be prompted to enter a year, and the program will display its full cale
 ## 🖼️ Sample Output
 Enter a year: 2016
 
-to see output view the screenshots attached in the resporitory
+to see output view the screenshots attached in the repository
 
 ## 📂 Files Included
 - `calendar.c` → Source code
