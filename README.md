@@ -20,7 +20,7 @@ This C program:
 ### **Compile**
 gcc presentation.c -o pr
 
-###*Run*
+### **Run**
 ./pr
 
 You will be prompted to enter a year, and the program will display its full calendar.
@@ -31,9 +31,9 @@ Enter a year: 2016
 to see output view the screenshots attached in the repository
 
 ## 📂 Files Included
-- `calendar.c` → Source code
-- `screenshot1.png` → Output screenshot
-- `screenshot2.png` → Additional output screenshot
+- `presentation.c` → Source code
+- `Screenshot 2025-12-07 160854` → Output screenshot
+- `Screenshot 2025-12-07 160905` → Additional output screenshot
 
 ## 📌 Notes / Assumptions
 - The program assumes the user will input a valid year.
