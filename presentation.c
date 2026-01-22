@@ -48,5 +48,5 @@ int main()
         printf("\n");
         startDay = (startDay + daysInMonth[i]) % 7;       //resetting value for next month
     }
-    return 0;
+    
 }
